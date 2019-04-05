@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainWindow.xaml](./CS/B183292SelectingColumnsByClickOnHeader/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/B183292SelectingColumnsByClickOnHeader/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/B183292SelectingColumnsByClickOnHeader/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/B183292SelectingColumnsByClickOnHeader/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/B183292SelectingColumnsByClickOnHeader/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/B183292SelectingColumnsByClickOnHeader/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to select all column cells by clicking on the column header similar to Excel
 
