@@ -13,7 +13,7 @@ namespace B183292SelectingColumnsByClickOnHeader {
             DataContext = list;
         }
         private void ColumnHeaderClick(object sender, ColumnHeaderClickEventArgs e) {
-            if (Keyboard.IsKeyDown(Key.LeftCtrl)) {
+            if (Keyboard.Modifiers.HasFlag(ModifierKeys.Alt)) {
                 view.Grid.BeginSelection();
                 for (int i = 0; i < view.Grid.VisibleRowCount; i++)
                     view.SelectCell(i, e.Column as GridColumn);
