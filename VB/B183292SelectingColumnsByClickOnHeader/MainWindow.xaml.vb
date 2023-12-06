@@ -19,7 +19,7 @@ Namespace B183292SelectingColumnsByClickOnHeader
         End Sub
 
         Private Sub ColumnHeaderClick(ByVal sender As Object, ByVal e As ColumnHeaderClickEventArgs)
-            If Keyboard.IsKeyDown(Key.LeftCtrl) Then
+            If Keyboard.Modifiers.HasFlag(ModifierKeys.Alt) Then
                 Me.view.Grid.BeginSelection()
                 For i As Integer = 0 To Me.view.Grid.VisibleRowCount - 1
                     Me.view.SelectCell(i, TryCast(e.Column, GridColumn))
