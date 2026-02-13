@@ -25,7 +25,7 @@ This example selects all column cells when a user clicks the column header (simi
 * [WPF Data Grid - Display a Check Box in Column Headers](https://github.com/DevExpress-Examples/wpf-data-grid-display-check-box-in-column-headers)
 * [WPF Data Grid - Display an Image within a Column Header](https://github.com/DevExpress-Examples/how-to-display-an-image-within-a-column-header-e1629)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-click-column-header-to-select-all-its-cells&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-click-column-header-to-select-all-its-cells&~~~was_helpful=no)
 
